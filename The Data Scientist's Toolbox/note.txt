@@ -1,0 +1,10 @@
+ git config --global user.email "kamleshchhipa480@gmail.com"
+  git config --global user.name "Your Name"
+
+
+[master (root-commit) 3dd0586] Initial commit of Testing.R
+ 1 file changed, 13 insertions(+)
+ create mode 100644 testing.Rproj
+
+
+kamle@DESKTOP-QUSR8IE MINGW64 ~
